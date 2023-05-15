@@ -15,7 +15,7 @@ body{
     background-color: #FFFFFF;
     background: #FFFFFF;
 box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-padding: 105px 90px;
+padding: 70px 70px;
 }
 
 /* about style  */
@@ -74,7 +74,7 @@ padding: 105px 90px;
 
 /* Project  style*/
 .Project{
-    margin-bottom: 50px;
+    
 }
 
 .title{
